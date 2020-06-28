@@ -1,7 +1,7 @@
 # GoogleKeepToCalendar_v210
 
 ## 説明
-これはGoogle Keepで書いたメモをGoogle Calendarに自動書き込みするツールです。
+これはGoogle Keepで書いたメモをGoogle Calendarに自動書き込みするツールです。Herokuと組み合わせることで自動で更新が可能です。Herokuへのデプロイ方法はご自身で調べ、デプロイしていただく必要があります。
 
 ## 必要なもの
 - credentials.jsonのファイル
