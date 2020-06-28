@@ -4,10 +4,12 @@
 これはGoogle Keepで書いたメモをGoogle Calendarに自動書き込みするツールです。
 
 ## 必要なもの
-・.jsonファイル
+・credentials.jsonのファイル
 ・Google アカウント ID （Gmailアドレス）
 ・Google アカウント アプリケーションパスワード
 ・Google Calendar ID
+
+ご自身でご用意してください。
 
 ## イメージ図と仕様
 ### Google Keep
